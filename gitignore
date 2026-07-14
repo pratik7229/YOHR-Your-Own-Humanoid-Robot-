@@ -1,7 +1,0 @@
-best_model/
-checkpoints/
-eval_logs/
-model_checkpoints/
-tensorboard_logs/
-humanoid_ppo_final.zip
-ppo_humanoid_final.zip
