@@ -1,7 +1,9 @@
-best_model/
-checkpoints/
-eval_logs/
-model_checkpoints/
-tensorboard_logs/
-humanoid_ppo_final.zip
-ppo_humanoid_final.zip
+# Ignore local python cache
+__pycache__/
+
+# Ignore all training logs, tensorboard, checkpoints, and model weights
+logs/
+
+# Ignore any miscellaneous pickle or zip files in root
+*.pkl
+*.zip
